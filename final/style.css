@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.marge {
+    width: 1700px;
+}
+
+.container {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+#input {
+    margin-top: 30px;
+    padding: 10px;
+}
